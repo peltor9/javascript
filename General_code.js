@@ -11,7 +11,7 @@ import java.util.stream.IntStream;
 
 
 
-public class ExamNotes {
+public class GeneralNotes {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
